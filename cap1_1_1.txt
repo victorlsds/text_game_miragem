@@ -1,0 +1,9 @@
+--------------------------------------------------------------------
+"Sem medo, você bate seu copo no balcão pedindo por mais cerveja. 
+O cervejeiro, tremendo, pega o seu copo e vai até o barril mais
+próximo para enche-lo"
+--------------------------------------------------------------------
+
+    [1] Falar com o viajante.
+
+--> 

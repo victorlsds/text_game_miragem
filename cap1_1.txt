@@ -1,0 +1,10 @@
+--------------------------------------------------------------------
+Você levanta e caminha em direção ao balcão, ou pelo menos ao que 
+restou dele. O lugar já está ocupado por um viajante encapuzado e 
+ao se aproximar, o cervejeiro aponta para você com um olhar atônito.
+--------------------------------------------------------------------
+
+    [1] Pedir mais cerveja.
+    [2] Falar com o viajante.
+
+--> 

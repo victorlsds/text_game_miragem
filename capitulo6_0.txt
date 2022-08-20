@@ -1,0 +1,19 @@
+                            Capítulo VI
+                         O DESPERTAR DA AREIA
+--------------------------------------------------------------------
+Você acorda tonto, sentindo muitos calafrios. Uma dor colossal te 
+derruba de novo ao chão. Ao olhar em volta, você, sem dúvidas, 
+percebe que está na tumba do Imperador. Moedas de ouro, jóias e 
+estátuas se mostram aos montes ao seu redor. Uma grande coluna de 
+ouro se ergue no meio do salão, o que seria aquele monumento, seus 
+olhos estão fixos nele...
+
+"Você acordou, pobre mercenário. Imagino que diversas coisas estejam 
+passando na sua cabeça..."
+--------------------------------------------------------------------
+
+    [1] O que você quer de mim?
+    [2] Quem realmente é você?
+    [3] O que é esse monumento de Ouro?
+
+--> 

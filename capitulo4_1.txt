@@ -1,0 +1,10 @@
+--------------------------------------------------------------------
+O jardim é realmente muito bonito e grande. As árvores dominaram todo 
+o local e já não é possível olhar em volta. Após uma longa caminhada, 
+vocês encontram diversos livros destruídos espalhados pelo chão, 
+parece que uma grande garra os rasgou.
+--------------------------------------------------------------------
+
+    [1] Procurar por alguma coisa legível.
+
+--> 

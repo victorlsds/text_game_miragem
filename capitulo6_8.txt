@@ -1,0 +1,23 @@
+--------------------------------------------------------------------
+Quando toda coluna de ouro derrete, você e Khalid se deparam com 
+uma figura humanóide muito alta e forte, mas aquele não é Keops. 
+Esse ser, apesar de parecer humano, tem a cabeça de um
+chacal, assustadora. Ele abre a boca e o barulho de sua voz parece 
+rasgar seus ouvidos
+
+"Khalid, há muito tempo você procurou por mim mesmo sem saber, você 
+pisou em uma terra que não deveria nunca ter pisado. Você me 
+envergonha! Você tenta usar meus poderes para vingança, mas você é 
+FRACO".
+
+Nessa hora, o chacal agarra Khalid pelo pescoço e o ergue metros 
+acima do chão. Ele aperta tão forte que quase não é possível ouvir 
+o que o mago quer dizer. 
+
+--------------------------------------------------------------------
+"O que é isso? Que poder é esse?" — Você se pergunta
+--------------------------------------------------------------------
+
+    [1] O que é você?
+
+--> 

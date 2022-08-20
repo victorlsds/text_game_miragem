@@ -1,0 +1,16 @@
+--------------------------------------------------------------------
+"Peço mais paciência ao me ouvir, minha história não é curta. Mas vou 
+direto ao ponto, faço parte dos Escaravelhos do Deserto, uma irmandade
+milenar que ajudou o imperador Keops a triunfar o seu império. Você 
+deve ter ouvido rumores sobre o retorno do imperador, e bom, 
+acreditamos nisso também."
+
+"Precisamos da sua ajuda para encontrar as catacumbas do imperador, 
+suspeitamos que ela esteja a algumas milhas daqui, porém não podemos 
+entrar lá sem a ajuda de um explorador experiente..."
+--------------------------------------------------------------------
+
+  [1] Meu valor é de:...
+  [2] Não estou procurando por ofertas, viajante...
+
+--> 

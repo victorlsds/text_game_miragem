@@ -1,0 +1,16 @@
+--------------------------------------------------------------------
+A entrada da ruína é apertada, apenas é possível passar um de cada 
+vez. Lá dentro há um amplo salão com diversos escritos nas paredes,
+você não conhece essa linguagem mas parece conseguir entender o que 
+ela quer passar.
+
+"Não conseguimos passar daqui, há algum tipo de magia que protege esse 
+lugar".
+
+O local está escuro, o viajante misterioso acende uma sequência de 
+tochas distribuidas no salão apenas sibilando algumas palavras.
+--------------------------------------------------------------------
+
+    [1] Olhar ao redor.
+
+--> 

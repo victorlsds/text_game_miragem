@@ -1,0 +1,9 @@
+--------------------------------------------------------------------
+Apesar da escuridão, esse não é um lugar desconhecido para você. 
+Lembranças de uma passado não tão distante, sua família sendo raptada 
+há poucas milhas dali...
+--------------------------------------------------------------------
+
+    [1] Descer do cavalo.
+
+--> 

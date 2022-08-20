@@ -1,0 +1,19 @@
+                            Capítulo III
+                      AS RUÍNAS DO IMPÉRIO DE SAK'AR
+--------------------------------------------------------------------
+A vista é surpreendente. Não existe explicação, se não mágica, de uma 
+cidade inteira existir debaixo do deserto. Você consegue ouvir, sob 
+seus pés, o barulho baixo de uma correnteza. É o grande Rio Kahleek, 
+que até então fora um mito para você. 
+
+Um grande estrondo abala toda a estrutura do local, e atrás de você a 
+ponte começa a cair diretamente no rio:
+
+"Corra!" — grita o misterioso viajante
+--------------------------------------------------------------------
+
+    [1] Correr
+    [2] Correr
+    [3] Correr
+
+--> 

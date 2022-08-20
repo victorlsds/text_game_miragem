@@ -1,0 +1,13 @@
+--------------------------------------------------------------------
+Este é um jogo focado em história e escolhas, após o jogo começar,
+escolhas irão surgir e cabe a você escolher o caminho a seguir...
+
+As escolhas aparecem como opções, como em: [1], [2], [3]. 
+Digite no seu teclado para escolher o que deseja. 
+
+Vamos lá?!
+--------------------------------------------------------------------
+
+    [1] Começar
+
+--> 

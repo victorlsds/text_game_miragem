@@ -1,0 +1,19 @@
+--------------------------------------------------------------------
+"Não vejo problema em te contar sobre isso agora... 
+
+Os Escaravelhos do Deserto são uma ordem mágica que surgiu muito antes 
+deste império existir. Viemos como os grãos de areia, e como eles, 
+nunca deixaremos de existir. 
+
+O deserto estava imaculado, escravidão, assassinatos, fome... Ajudamos 
+a construir esse império, por meio de magia e algumas histórias 
+contadas aqui e ali.
+
+Nós tinhamos um acordo com o Imperador 		Keops, quando ele sentasse 
+no trono todos esses problemas acabariam, mas ele não fez isso..."
+--------------------------------------------------------------------
+
+    [1] Você tem raiva do imperador?
+    [2] Por que você me escolheu para vir aqui?
+
+--> 

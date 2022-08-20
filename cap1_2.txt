@@ -1,0 +1,15 @@
+--------------------------------------------------------------------
+Ao se aproximar do misterioso viajante, você sente como se uma brisa
+fria e pesada invadisse o lugar. Ele está susurrando em uma língua 
+antiga e desconhecida, mesmo sem conhecer você percebe que o que quer 
+que ele esteja falando, não é algo bom. 
+
+"Estava esperando por sua companhia, caro amigo. Foi difícil te 
+encontrar, mas as notícias correm rápido sobre a areia de Sak'ar"
+--------------------------------------------------------------------
+
+    [1] "Não me chame de amigo, nem ao menos conheço você"
+    [2] "Quem é você e o que quer?"
+    [3] Pegá-lo pelo colarinho.
+
+--> 

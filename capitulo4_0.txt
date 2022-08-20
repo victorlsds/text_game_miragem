@@ -1,0 +1,16 @@
+                            Capítulo IV
+                      OS JARDINS DE BAL-DHIR
+--------------------------------------------------------------------
+A entrada do jardim é magnifíca, com certeza, outrora, esse jardim 
+pertencera a realeza. 
+
+"Chamar esse lugar de ruína é uma verdadeira blasfêmia. A propósito eu 
+me chamo Khalid, sou um velho mago que peregrina na região de Bal-
+dhir".
+--------------------------------------------------------------------
+
+    [1] Me conte sobre os Escaravelhos do Deserto.
+    [2] Por que você me escolheu para vir aqui?
+    [3] Não me importa, vamos prosseguir. 
+
+--> 

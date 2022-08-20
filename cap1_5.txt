@@ -1,0 +1,11 @@
+--------------------------------------------------------------------
+"Não seja por isso, a tumba do imperador possui a maior riqueza já 
+vista por um homem, qualquer que seja o valor que você consiga 
+imaginar... Eu pago!"
+
+Você parece ficar sem escolhas...
+--------------------------------------------------------------------
+
+    [1] Aceitar proposta.
+
+--> 

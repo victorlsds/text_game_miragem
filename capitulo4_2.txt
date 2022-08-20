@@ -1,0 +1,8 @@
+--------------------------------------------------------------------
+Você encontra um diário com algumas poucas páginas, não há título nem 
+nada que possa te ajudar a identificar.
+--------------------------------------------------------------------
+
+    [1] Ler
+
+--> 

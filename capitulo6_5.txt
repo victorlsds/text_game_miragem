@@ -1,0 +1,13 @@
+--------------------------------------------------------------------
+"Ele..." — Nesse momento Khalid chora.
+
+"Ele prometeu, assim que ele subisse ao trono, que libertaria todos 
+escravos desse reino, o meu povo Bhal-dir! Eu fui até os lugares 
+mais remotos da terra para aprender magia, e assim seu império foi 
+tomando forma. Mas anos e anos se passaram e ele não nos libertou.
+Eu fui tomado pelo ódio e armei contra a queda de todo seu Reino".
+--------------------------------------------------------------------
+
+    [1] O que você fez?
+
+--> 

@@ -1,0 +1,23 @@
+
+                            Capítulo V
+                        O ENIGMA DA ESFINGE
+--------------------------------------------------------------------
+De repente, uma enorme criatura, com garras do tamanho de um 
+camelodrário, parte humana, parte animal, tendo rosto e busto de 
+mulher, corpo e patas de leão, surge na sua frente. Seu rugido te joga 
+pra trás.
+
+"Me chamo Neferta're, sou a protetora do palácio, sei que vocês 
+desejam entrar no palácio, e roubar os tesouros tumba do Imperador. 
+Para passar, vocês precisam responder as minhas charadas...
+
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+...Quanto mais houver de mim, menos você verá. Quem sou eu?"
+--------------------------------------------------------------------
+
+    [1] O Sol
+    [2] A escuridão
+    [3] Espelhos
+
+--> 

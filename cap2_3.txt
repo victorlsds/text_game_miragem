@@ -1,0 +1,13 @@
+--------------------------------------------------------------------
+Você se prova como um mercenário preparado! Procura por uma corda em
+seu arsenal e a usa para laçar a alavanca. Ao puxar, um barulho
+de engrenagens te surpreende, até parecendo fazer que o local iria 
+desmoronar, até que uma grande passagem circular se abre no teto 
+derrubando muita areia. Depois de tudo, uma forte faixa de luz sai 
+dali, apontando para um outro espelho no chão.
+--------------------------------------------------------------------
+
+    [1] Tentar apontar o espelho para a porta.
+    [2] Apontar o espelho para algum outro na parede.
+
+--> 

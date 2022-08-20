@@ -1,0 +1,18 @@
+                            Capítulo II
+                             A CHEGADA	
+--------------------------------------------------------------------
+Mesmo desconfiando, o valor prometido é tão alto que você não consegue 
+recusar. Rapidamente vocês procuram por Camelodrários disponíveis para
+viagem, tudo aos custos do Viajante.
+
+Já montados, vocês fazem a viagem durante o nascer do sol até o 
+escurecer. A paisagem do local não é tão diferente do resto do 
+deserto, apenas dunas e uma imensidão de areia. 
+
+"Precisamos descer aqui, as ruínas são mais a frente"
+--------------------------------------------------------------------
+
+[1] Descer do cavalo.
+[2] Olhar em volta.
+
+--> 

@@ -1,0 +1,12 @@
+--------------------------------------------------------------------
+Você joga a sua corda, ou pelo menos o que restou dela. O viajante 
+consegue pegar, mas ele cai em direção ao abismo. Com garra, você o 
+puxa em sua direção e ele consegue se agarrar na beirada. Vocês chegam 
+ao jardim.
+
+		"Obrigado"
+--------------------------------------------------------------------
+
+    [1] Seguir em frente
+
+--> 

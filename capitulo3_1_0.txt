@@ -1,0 +1,11 @@
+--------------------------------------------------------------------
+O caminho da ponte parece maior do que você esperava, o cansaço já 
+domina os seus pés quando você avista a entrada de um jardim, talvez 
+do antigo palácio de areia. A queda está quase te alcançando quando o 
+misterioso viajante tropeça...
+--------------------------------------------------------------------
+
+    [1] Continuar correndo
+    [2] Ajudar o viajante
+
+--> 

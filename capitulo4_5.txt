@@ -1,0 +1,7 @@
+--------------------------------------------------------------------
+O resto do diário está destruído, você folheia e folheia mas não encontra nada. 
+--------------------------------------------------------------------
+
+    [1] Seguir em frente.
+
+--> 

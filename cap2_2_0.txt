@@ -1,0 +1,15 @@
+--------------------------------------------------------------------
+Agora, com a luz das chamas você consegue entender melhor a mensagem
+escrita há eras atrás. Parece que o local era a base de soldados que 
+vigiavam a cidade, mas agora tudo está debaixo das areias. Todas 
+aquelas imagens deixavam muito claro o que, agora, faltava ali...
+
+... A luz do Sol de Sak'ar
+
+Há diversos espelhos no salão, há também uma alavanca suspeita no teto.
+--------------------------------------------------------------------
+
+    [1] Tentar alcançar a alavanca.
+    [2] Olhar os espelhos.
+
+--> 

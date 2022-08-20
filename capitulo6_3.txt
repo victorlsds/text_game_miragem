@@ -1,0 +1,12 @@
+--------------------------------------------------------------------
+"Não se faça de tolo! Esse é o sarcófago 	de Keops, meus 
+antepassados o selaram aqui, junto com toda essa cidade. Finalmente 
+vou poder ressucitá-lo e acabar de vez com sua história... Nosso 
+sofrimento de muitos anos, acaba agora...
+--------------------------------------------------------------------
+
+    [1] Por favor, pare!
+    [2] Não sei do que você está falando...
+    [3] Não tenho nada a ver com isso!
+
+--> 

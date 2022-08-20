@@ -1,0 +1,42 @@
+                            Episódio I
+                          O IMPERIO SAK'AR
+
+--------------------------------------------------------------------
+O império de Sak'ar foi uma civilização próspera e justa que ocupava
+um continente inteiro. Forjado a fogo e sangue pelo poderoso
+gerreiro Keops, uniu todos os povos que viviam em guerra ao redor 
+do deserto e consolidou paz entre eles.
+
+
+Poucos ousavam se rebelar, mas aqueles que o faziam, 
+como os Bal-dhir, eram esmagados sem misericórdia.
+
+
+De uma hora para outra, após anos de crescimento e prosperidade, 
+uma grande e misteriosa reviravolta deixou a capital em ruínas, 
+e o pouco que se sabe do que aconteceu se tornou mito. Agora, 
+a maioria dos habitantes nômades e tribos do desertos de Sak'ar
+lutam para conseguir sobreviver nesta terra impiedosa. Alguns
+construíram pequenos postos para defender os raros oásis e vender
+sua água aos perdidos na imensidão de areia, enquanto outros
+mergulham em catacumbas há muito tempo perdidas em busca das 
+incontáveis fortunas que dizem estar aguardando lá embaixo. 
+Também há quem leve uma vida de mercenário, como você, trocando
+serviços por moedas antes de desaparecer de novo na vastidão sem lei.
+
+
+Recentemente, as tribos andaram se agitando, fomentadas pelos
+sussurros vindos do coração do deserto sobre o retorno do imperador
+Keops, que os levará a uma nova era de maravilhas.
+
+
+E assim, mais uma vez o Sol nasce sobre o deserto, iluminando a 
+vastidão de areia que esconde maravilhas, mas, também, desgraças...
+--------------------------------------------------------------------
+
+  [1] Começar
+  [2] Tutorial
+  [3] Capítulos
+  [4] Sair
+
+--> 

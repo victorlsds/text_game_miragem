@@ -1,0 +1,12 @@
+                            Capítulo I
+                            O ENCONTRO
+
+--------------------------------------------------------------------
+Você está na taverna do Barão Zahxar. Há muito tempo o recinto foi 
+dominado por ladrões e assassinos de aluguél e pessoas como você, 
+mercenários. Seu copo está vazio agora...
+--------------------------------------------------------------------
+
+    [1] Ir até o cervejeiro
+
+--> 

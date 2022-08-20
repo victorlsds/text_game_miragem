@@ -1,0 +1,9 @@
+--------------------------------------------------------------------
+Você demonstra que tem o coração de um verdadeiro rei. Volta correndo
+até o viajante e o ajuda a se reerguer. Juntos vocês conseguem chegar 
+até o jardim, cansados.
+--------------------------------------------------------------------
+
+    [1] Seguir em frente
+
+--> 

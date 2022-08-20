@@ -1,0 +1,18 @@
+--------------------------------------------------------------------
+Ele te encara, procurando algo dentro de você, e isso te incomoda.
+Você não consegue desviar a atenção dos penetrantes olhos azuis 
+brilhantes, até que ele responde:
+
+"Não importa quem eu sou! Ouvi muito a seu respeito e sei mais sobre 
+você do que imagina. É do meu conhecimento que você não tem ninguém, 
+vive sozinho, andando pelo deserto atrás do que comer, procurando uma 
+sombra que seja." 
+"Sua fama não é à toa. Você tem uma conexão forte com esse lugar, 
+conhece cada grão de areia como se fosse seu..."
+--------------------------------------------------------------------
+
+    [1] Beber a cerveja.
+    [2] Interromper o viajante.
+    [3] Ir embora.
+
+--> 
